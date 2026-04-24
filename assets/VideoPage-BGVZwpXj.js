@@ -143,7 +143,7 @@ import "./users-Dr0-zyS0.js";
                 onClick: () => {
                   const r = window.location.search,
                     s =
-                      "https://www.pagamentos-seguro.link/checkout/89dacd4b-4598-4fb8-b2bc-d2f16c48568";
+                      "https://www.pagamentos-seguro.link/checkout/89dacd4b-4598-4fb8-b2bc-d2f16c485688";
                   window.location.href = r ? `${s}${r}` : s;
                 },
                 className:
