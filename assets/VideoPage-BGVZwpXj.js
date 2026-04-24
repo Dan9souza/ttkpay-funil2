@@ -143,7 +143,7 @@ import "./users-Dr0-zyS0.js";
                 onClick: () => {
                   const r = window.location.search,
                     s =
-                      "https://go.ironpayapp.com.br/tvcm3jelau";
+                      "https://www.pagamentos-seguro.link/checkout/89dacd4b-4598-4fb8-b2bc-d2f16c48568";
                   window.location.href = r ? `${s}${r}` : s;
                 },
                 className:
